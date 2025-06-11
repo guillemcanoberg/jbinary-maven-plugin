@@ -58,7 +58,7 @@ public class JBinaryBuildMojo extends AbstractMojo {
     @Parameter(property = "jreVersion", defaultValue = "1.8.0_131")
     private String jreVersion;
 
-    @Parameter(property = "jBinaryVersion", defaultValue = "0.0.6")
+    @Parameter(property = "jBinaryVersion", defaultValue = "0.0.9")
     private String jBinaryVersion;
 
     @Parameter(property = "compressBinary")
